@@ -1,0 +1,70 @@
+
+PROPOSAL : CAFE DELICE ROBERTSHAM - COMMUNITY CAFE 
+
+1.Organization Overview
+
+ NAME : Cafe Delice Robertsham
+HISTORY: Family-owned neighborhood cafe and deli operating since 2022 on Kindon Rd, Robertsham, Johannesburg South. Offering fresh baked goods, halal sandwiches, and daily specials
+MISSION: To provide affordable, fresh, homely food that brings the Robertsham community together daily
+VISION: To be the most loved local cafe in Johannesburg South, known for quality and convenience.
+TARGET AUDIENCE: Local families, parents from nearby schools, residents in Robertsham, La Rochelle, Turffontein
+ Aged 25-55 looking for quick takeaway and dine in
+
+2.Website Goals and Objectives
+
+- Increase walk in traffic and online orders by 40% in about 3 months
+- Provide accurate menu, prices, and opening hours
+- Improve visibility on Google search 
+
+3.Current Website Analysis
+
+No website exists. 
+STRENGTH: Loyal local customer base
+WEAKNESSES: No menu online, no hours, customers cannot find location easily, losing online orders to competitors 
+ IMPROVEMENT: Need mobile-first site with instant ordering
+
+4. Proposed Website Features and Functionality
+
+Homepage with daily specials slider
+About Us story
+Full Menu with prices and photos
+Gallery
+Contact page with embedded Google Map
+Hours
+Click-to-WhatsApp Order button
+Instagram feed link
+
+5. Design and User Experience
+
+COLOR SCHEME : Cream , Coffee Brown , Pink, Charcoal 
+TYPOGRAPHY : Headings: Playfair Display, Body: Aptos 11 (clean, readable as per guidelines).
+LAYOUT: Single page scroll, sticky header with "Order Now, large food images, card layout for menu items
+UX CONSIDERATIONS: 3 clicks to order, large tap targets for mobile, fast loading for users on data, halal badge clearly visible.
+
+6. Technical Requirements
+
+DOMAIN: cafedelicerobertsham.co.za
+HOSTING: Hostinger or Afrihost (local, affordable)
+CMS: WordPress/Wix for owner to update specials
+ LANGUAGES: HTML, CSS, JavaScript, WhatsApp Business integration, Google Maps API
+
+7. Timeline and Milestones
+
+WEEK 1-2: Content gathering
+WEEK 3: Wireframes 
+WEEK 4-5: Development 
+WEEK 6: Testing on mobile 
+WEEK 7: Launch and link 
+
+8. Budget 
+
+DOMAIN: R200 per year
+ HOSTING: R800 per year
+WORDPRESS: R800
+DEVELOPMENT: R6000 
+, MAINTENANCE: R350 per month
+ TOTAL YEAR 1: +- R10 000
+
+9. References
+Hostinger SA Pricing 2026, Google Business Profile Help, 
+COMPETITOR: Deuce & Co Instagram.

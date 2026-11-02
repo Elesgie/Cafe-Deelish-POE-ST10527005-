@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="eng">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, inditial-scale=1.0">
+    <title>Home page</title>
+    <link rel="stylesheet" href="CSS/style.css">
+</head>
+
+<body style ="background-color: aqua;">
+
+
+    <header>
+  <div class="logo">
+    <img src="Images/imagesz.jpg" 
+    alt="Cafe Dee'Lish Logo" 
+    style="width:75px;height:85px;"> Cafe Dee'Lish</div>
+  <button class="hamburger" aria-label="Toggle menu" onclick="toggleMenu()">☰</button>
+  <nav class="menu" id="navMenu">
+    <a href="HOME.html">Home</a> 
+    <a href="ABOUT.html">About</a> 
+    <a href="SERVICES.html">Services</a>
+     <a href="GALLERY.html">Gallery</a> 
+     <a href="CONTACT.html">Contact</a>
+  </nav>
+</header>
+
+<main> 
+<h1><u><i>Welcome to Cafe Dee'lish</i></u></h1>
+<picture>
+    <source srcset="Images/imagesz-small.jpg 480w,Images/imagesz-medium.jpg 768w,Images/imagesz-large.jpg 1200w" 
+    sizes="(max-width: 600px) 480px,(max-width: 1000px) 786px,1200px" >
+    <img src="Images/imagesz.jpg" alt ="Cafe Dee'Lish">
+</picture>
+<h3>The home of the best haalal food</h3>
+
+    <p><a href="SERVICES.html">View our <Menu></Menu></a></p>
+    <p><a href="CONTACT.html">Catering Quote</a></p>
+</main>
+
+ <script src="JS/main.js"></script>
+</body>
+<footer> &copy;ST10527005</footer>
+
+</html>

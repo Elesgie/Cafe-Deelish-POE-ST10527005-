@@ -1,0 +1,60 @@
+
+<!DOCTYPE html>
+<html lang="eng">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, inditial-scale=1.0">
+    <title>Contact</title>
+    <link rel="stylesheet" href="CSS/style.css">
+</head>
+
+<body style ="background-color: aqua;">
+
+
+    <header>
+  <div class="logo">
+    <img src="Images/imagesz.jpg" 
+    alt="Cafe Dee'Lish Logo" 
+    style="width:75px;height:85px;"> Cafe Dee'Lish</div>
+  <button class="hamburger" aria-label="Toggle menu" onclick="toggleMenu()">☰</button>
+  <nav class="menu" id="navMenu">
+    <a href="HOME.html">Home</a> 
+    <a href="ABOUT.html">About</a> 
+    <a href="SERVICES.html">Services</a>
+     <a href="GALLERY.html">Gallery</a> 
+     <a href="CONTACT.html">Contact</a>
+  </nav>
+</header>
+
+<main> 
+    <h2>Contact Us</h2>
+    <div class="grid">
+<div class="card"> 27 Kindon Rd, Robertsham<br>Phone: 064 529 9040</div>
+<div class="card">
+<iframe src="https://www.google.com/maps/place/Caf%C3%A9+Deelish/@-26.2594012,28.0177046,17z/data=!3m1!4b1!4m6!3m5!1s0x1e950f3fe0048b9f:0x93bcbc86b9ed37fe!8m2!3d-26.2594012!4d28.0202795!16s%2Fg%2F11v_0dfl_5?entry=ttu&g_ep=EgoyMDI2MDkxNi4wIKXMDSoASAFQAw%3D%3D" width="400" height="300"></iframe>
+</div>
+</div>
+</div>
+
+
+<h3>Quick Contact Form</h3>
+<form onsubmit="return validateContactForm(event)" novalidate>
+  <div class="form-group"><label for="cName">Name *</label>
+  <input id="cName" required>
+  <div class="error" id="nameError"></div>
+  </div>
+  <div class="form-group"><label for="cEmail">Email *</label>
+ <input id="cEmail" type="email" required><div class="error" id="emailError"></div></div>
+  <div class="form-group"><label for="cMessage">Message *</label>
+    <textarea id="cMessage" rows="5" required></textarea>
+    <div class="error" id="msgError"></div>
+</div>
+  <button type="submit" class="btn">Send Message</button>
+</form>
+</main>
+
+
+ <script src="JS/main.js"></script>
+</body>
+<footer> &copy;ST10527005</footer>
+</html>
